@@ -2,6 +2,7 @@
  Criando um Portfólio em React 
 
 É necessário ter o node instalado na máquina, digitar o comando no seu terminal:
+
 -- node -version --
 
 Caso não esteja, você deverá instalar ele em sua máquina para rodar este projeto.
